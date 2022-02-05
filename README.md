@@ -1,15 +1,23 @@
 <img src="Streaks0.png" width="100%">
-<h1 align="center"> <details><summary>︵‿︵‿︵‿︵‿︵‿︵‿︵‿︵‿</summary><br><h3 align="center"> ∯𝓒𝓪𝓵𝓬𝓾𝓵𝓾𝓼<sup>∞</sup>⊉⊷</h3></details></h1>
-<h2 align="center">⌦ </a></h2><br>
+<h1 align="left"> 
+┊ ┊ ┊ ┊ ┊ ┊˚❃<br>
+┊ ┊ ┊ ┊ ˚❀ ⋆｡<br>
+┊ ┊ ┊ ✿  ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼∯𝓒𝓪𝓵𝓬𝓾𝓵𝓾𝓼<sup>∞</sup>⊉⊷<br>
+┊ ┊ ❁⋆<br> 
+┊ ๑ ┊<br>
+✾ ⋆ ┊. ˚.<br>
+˚✽<br>
+<a align="center"><img src="https://camo.githubusercontent.com/4080d349f13efe927596fc36abbb36b13218bf88/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3430303234383130333331333231313339322e676966"></a>
+</h1>	
 <div align="center"> 
 
 <img src="Streaks.png" width="100%">
 
 <p align="center">
-	<!-- out of order <a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views--> -->
+	<!-- out of order <a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views--> 
 	<a href="mailto:ba004745@bac.qld.edu.au"><img src="https://img.shields.io/badge/Contact_me-here-99A5FF"></a> <!--Contact-->
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-cyan"></a> <!--Shoutout for Johnny!-->
-	<br> <h3 align="center">Visit my organisation's homepage => https://xpavilion.github.io/<br></h3>
+	<!-- <br> <h3 align="center">Visit my organisation's homepage => https://xpavilion.github.io/<br></h3>-->
 	<p align="center"><h3 align="center">Supporters:<br></h3>
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a> <!--Johnny-->
 	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-Natascha-333333?style-flat&logo=github"></a> <!--Natascha-->
@@ -25,7 +33,7 @@
 
 <p align="center"> <h3 align="center"> Apps/Languages/Prados that I use: </h3>
 	<a href="https://apple.com/">	<img src="https://img.shields.io/badge/Apple-Valensce%20<3-99A5FF?logo=apple"> </a><!--Apple-->
-	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/♔%20Valensce%20♡[hashtag]3520-333?logo=discord"> </a><!--Discord-->
+	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/Valensceﮩ٨ـﮩﮩ٨♡[hashtag]3520-333?logo=discord"> </a><!--Discord-->
 	<a href="https://atom.io">	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> </a><!--Atom-->
 	<a href="https://download-chromium.appspot.com">	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> </a><!--Chromium-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6"> </a><!--CSS-->
@@ -36,7 +44,7 @@
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5"> </a><!--HTML-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript"> </a><!--JavaScript-->
 	<a href="https://www.khanacademy.org/profile/kaid_378720445388893190837084/">	<img src="https://img.shields.io/badge/-Khan_Academy-333333?style=flat&logo=Khan%20Academy"> </a><!--Khan Academy-->
-	<a href="https://open.spotify.com/user/8jsmxggsn2pqgcphminrgxxwf?si=7ac5c3a7a1a2428b"><img src="https://img.shields.io/badge/-♔%20Valensce%20♡-333333?style-flat&logo=spotify"></a> <!--I am an entrepreneur!-->
+	<a href="https://open.spotify.com/user/8jsmxggsn2pqgcphminrgxxwf?si=7ac5c3a7a1a2428b"><img src="https://img.shields.io/badge/-Valensce%20♡-333333?style-flat&logo=spotify"></a> <!--I am an entrepreneur!-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-OneDrive-333333?style=flat&logo=microsoft%20onedrive"> </a><!--OneDrive-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Pok%C3%A9mon-333333?style=flat&logo=Pok%C3%A9mon"> </a><!--Pokémon-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python"> </a><!--Python-->
@@ -52,13 +60,13 @@
 
 <p align="center">
 	<a href="https://github.com/Valensce"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=valensce&column=6&theme=dracula"></a><br><br> <!--Trophies-->
-	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&locale=en&theme=tokyonight&custom_title=♡%20Isabel%20Lifu%20♡%27s%20GitHub%20Stats"></a><br><br>
+	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&locale=en&theme=tokyonight&custom_title=Valensce%27s%20GitHub%20Stats"></a><br><br>
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Isabel_Lifu&layout=compact&theme=tokyonight&length=10"></a><br><br>
 	<a href="https://github.com/Valensce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=egoist&theme=tokyonight"></a><br><br>
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=turnipguy30&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide=red,rebol"></a><br><br>
 </p>
 <hr>
-<details><summary><h3 align="center"> School projects for <a href="https://github.com/digital-technologies">Mr Henley</a></h3></summary>
+<details><summary><h3 align="center"> School projects for <a href="https://github.com/digital-technologies">Mr. Henley</a></h3></summary>
 	<a href="https://github.com/Valensce/T1-HTML-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=T1-HTML-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 	<a href="https://github.com/Valensce/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 	<a href="https://github.com/Valensce/JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=JavaScript&theme=tokyonight&show_owner=false" width="400" height="150"></a>
