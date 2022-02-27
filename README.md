@@ -3,11 +3,11 @@
 ┊ ┊ ┊ ┊ ┊ ┊˚❃<br>
 ┊ ┊ ┊ ┊ ˚❀ ⋆｡<br>
 ┊ ┊ ┊ ✿  ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼∯𝓒𝓪𝓵𝓬𝓾𝓵𝓾𝓼<sup>∞</sup>⊉⊷<br>
-┊ ┊ ❁⋆<br> 
+┊ ┊ ❁⋆ ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼ ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼ ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼<a align="right"><img src="https://camo.githubusercontent.com/4080d349f13efe927596fc36abbb36b13218bf88/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3430303234383130333331333231313339322e676966"></a><br>
 ┊ ๑ ┊<br>
 ✾ ⋆ ┊. ˚.<br>
 ˚✽<br>
-<a align="center"><img src="https://camo.githubusercontent.com/4080d349f13efe927596fc36abbb36b13218bf88/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3430303234383130333331333231313339322e676966"></a>
+
 </h1>	
 <div align="center"> 
 
