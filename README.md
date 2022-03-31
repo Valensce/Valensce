@@ -2,11 +2,11 @@
 <h1 align="left"> 
 ┊ ┊ ┊ ┊ ┊ ┊˚❃<br>
 ┊ ┊ ┊ ┊ ˚❀ ⋆｡<br>
-┊ ┊ ┊ ✿  ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼∯𝓒𝓪𝓵𝓬𝓾𝓵𝓾𝓼<sup>∞</sup>⊉⊷<br>
-┊ ┊ ❁⋆ ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼ ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼ ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼<a align="right"><img src="https://camo.githubusercontent.com/4080d349f13efe927596fc36abbb36b13218bf88/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f656d6f6a69732f3430303234383130333331333231313339322e676966"></a><br>
-┊ ๑ ┊<br>
-✾ ⋆ ┊. ˚.<br>
-˚✽<br>
+┊ ┊ ┊ ✿  ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼Hey, I'm Valensce⛧<br>
+┊ ┊ ❁⋆ <br>
+┊ ๑ ┊᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼Welcome to my profile...<br>
+✾  ⋆┊. ˚.<br>
+˚✽<br>᲼᲼᲼᲼᲼᲼᲼᲼I hope you find something adorable during this visit ツ
 
 </h1>	
 <div align="center"> 
@@ -15,8 +15,10 @@
 
 <p align="center">
 	<!-- out of order <a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views--> 
-	<a href="mailto:ba004745@bac.qld.edu.au"><img src="https://img.shields.io/badge/Contact_me-here-99A5FF"></a> <!--Contact-->
+	<a href="mailto:swarovskiswanski@gmail.com"><img src="https://img.shields.io/badge/Contact_me-here-99A5FF"></a> <!--Contact-->
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-cyan"></a> <!--Shoutout for Johnny!-->
+	<a href="https://github.com/valensce"><img src="https://gpvc.arturio.dev/valensce"></a> <!--Profile views-->
+	<a href="https://github.com/valensce"><img src="https://img.shields.io/github/stars/valensce"></a> <!--Stars-->
 	<!-- <br> <h3 align="center">Visit my organisation's homepage => https://xpavilion.github.io/<br></h3>-->
 	<p align="center"><h3 align="center">Supporters:<br></h3>
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a> <!--Johnny-->
@@ -62,7 +64,7 @@
 	<a href="https://github.com/Valensce"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=valensce&column=6&theme=dracula"></a><br><br> <!--Trophies-->
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&locale=en&theme=tokyonight&custom_title=Valensce%27s%20GitHub%20Stats"></a><br><br>
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Isabel_Lifu&layout=compact&theme=tokyonight&length=10"></a><br><br>
-	<a href="https://github.com/Valensce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=egoist&theme=tokyonight"></a><br><br>
+	<a href="https://github.com/Valensce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=valensce&theme=tokyonight"></a><br><br>
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=turnipguy30&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide=red,rebol"></a><br><br>
 </p>
 <hr>
@@ -118,21 +120,6 @@
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/Nones2003/">Nones2003</a></summary>	
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/Grandy2827/">Grand</a></summary>
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/lucasbtw/">Lucas</a></summary>
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/Mayann77/">Mayan</a></summary>
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/typehrishi/">Hrishi</a></summary>
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/not-aayush/">Aayush</a></summary>	
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/valerimatical/">Valerimatical</a></summary>
