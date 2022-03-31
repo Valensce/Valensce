@@ -6,7 +6,7 @@
 ┊ ┊ ❁⋆ <br>
 ┊ ๑ ┊᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼Welcome to my profile...<br>
 ✾  ⋆┊. ˚.<br>
-˚✽<br>᲼᲼᲼᲼᲼᲼᲼᲼I hope you find something adorable during this visit ツ
+˚✽<br>᲼᲼᲼᲼᲼I hope you find something adorable during this visit ツ
 
 </h1>	
 <div align="center"> 
