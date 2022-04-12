@@ -6,9 +6,12 @@
 ┊ ┊ ❁⋆ <br>
 ┊ ๑ ┊᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼Welcome to my profile...<br>
 ✾  ⋆┊. ˚.<br>
-˚✽<br>᲼᲼᲼᲼᲼I hope you find something adorable during this visit ツ
+˚✽᲼᲼᲼</h1>	
+	<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
 
-</h1>	
+
 <div align="center"> 
 
 <img src="Streaks.png" width="100%">
