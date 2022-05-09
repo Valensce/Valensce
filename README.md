@@ -5,35 +5,21 @@
 ┊ ┊ ┊ ✿⋆  ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼<a href="https://github.com/Valensce">᲼<img src = "https://readme-typing-svg.herokuapp.com?size=26&duration=1500&color=20C20E&lines=Hey%2C+I'm+Valensce%E2%9B%A7"></a><br>
 ┊ ┊ ❁⋆   ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼ <a href="https://github.com/Valensce">᲼<img src = "https://readme-typing-svg.herokuapp.com?size=26&duration=1500&color=20C20E&lines=Welcome+to+my+profile..."></a><br>
 ┊ ๑ . ˚.᲼<br>
-✾⋆   <br></h1>
-<div align="center"> 
-<img src="Streaks.png" width="100%">
-
-<p align="center">
-	<!-- out of order <a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/TurnipGuy30"></a> <!--Profile views--> 
+✾⋆   <p align="center">
 	<a href="mailto:swarovskiswanski@gmail.com"><img src="https://img.shields.io/badge/Contact_me-here-99A5FF"></a> <!--Contact-->
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-cyan"></a> <!--Shoutout for Johnny!-->
 	<a href="https://github.com/valensce"><img src="https://gpvc.arturio.dev/valensce"></a> <!--Profile views-->
 	<a href="https://github.com/valensce"><img src="https://img.shields.io/github/stars/valensce"></a> <!--Stars-->
-	<!-- <br> <h3 align="center">Visit my organisation's homepage => https://xpavilion.github.io/<br></h3>-->
-	<p align="center"><h3 align="center">Supporters:<br></h3>
-	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/-TurnipGuy30-333333?style-flat&logo=github"></a> <!--Johnny-->
-	<a href="https://github.com/hacking-mudkip"><img src="https://img.shields.io/badge/-Natascha-333333?style-flat&logo=github"></a> <!--Natascha-->
-	<a href="https://github.com/Jeremy-Tsai-310206-XJOSH"><img src="https://img.shields.io/badge/-Snow-333333?style-flat&logo=github"></a> <!--Jeremy-->
-	<a href="https://github.com/valerimatical"><img src="https://img.shields.io/badge/-Valerimatical-333333?style-flat&logo=github"></a> <!--Valerie-->
-	<a href="https://github.com/SuperNova7"><img src="https://img.shields.io/badge/-SuperNova7-333333?style-flat&logo=github"></a> <!--Supernova7-->
-	<a href="https://github.com/Digital-Technologies"><img src="https://img.shields.io/badge/-Digital--Technologies-333333?style-flat&logo=github"></a> <!--Mr. Henley-->
-	<a href="https://github.com/specialist-mathematics"><img src="https://img.shields.io/badge/-Specialist--Mathematics-333333?style-flat&logo=github"></a> <!--SM-->
-	<a href="https://github.com/teethtastegood"><img src="https://img.shields.io/badge/-Charlotte-333333?style-flat&logo=github"></a> <!--Charlotte-->
-	<a href="https://github.com/brizyyy"><img src="https://img.shields.io/badge/-Brianna-333333?style-flat&logo=github"></a> <!--Brianna-->
-	<a href="https://github.com/lahonathon"><img src="https://img.shields.io/badge/-Lh(n)-333333?style-flat&logo=github"></a> <!--Lh(n)-->
-	<a href="https://github.com/MuLKy-bot"><img src="https://img.shields.io/badge/-Samuel-333333?style-flat&logo=github"></a> <!--Samuel-->
+	<!-- <br> <h3 align="center">Visit my organisation's homepage => https://xpavilion.github.io/<br></h3>--></h1>
+<div align="center"> 
+<img src="Streaks.png" width="100%">
+
 
 <p align="center"> <h3 align="center"> Apps/Languages/Prados that I use: </h3>
 	<a href="https://apple.com/">	<img src="https://img.shields.io/badge/Apple-Valensce%20<3-99A5FF?logo=apple"> </a><!--Apple-->
-	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/Valensceﮩ٨ـﮩﮩ٨♡[hashtag]3520-333?logo=discord"> </a><!--Discord-->
+	<a href="https://valensce.github.io">	<img src="https://img.shields.io/badge/Valensce✧*̣̩☽⋆゜[hashtag]3520-333?logo=discord"> </a><!--Discord-->
 	<a href="https://atom.io">	<img src="https://img.shields.io/badge/-Atom-333333?logo=atom&logoColor=lightgreen"> </a><!--Atom-->
-	<a href="https://download-chromium.appspot.com">	<img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> </a><!--Chromium-->
+	<a href="https://download-chromium.appspot.com"> <img src="https://img.shields.io/badge/-Chromium-333333?style=flat&logo=Google%20Chrome"> </a><!--Chromium-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6"> </a><!--CSS-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Dreamweaver-333333?style=flat&logo=Adobe%20Dreamweaver"> </a><!--Dreamweaver-->
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Excel-333333?style=flat&logo=Microsoft%20Excel"> </a><!--Excel-->
@@ -58,10 +44,10 @@
 
 <p align="center">
 	<a href="https://github.com/Valensce"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=valensce&column=6&theme=dracula"></a><br><br> <!--Trophies-->
-	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api?username=egoist&show_icons=true&locale=en&theme=tokyonight&custom_title=Valensce%27s%20GitHub%20Stats"></a><br><br>
+	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api?username=valensce&show_icons=true&locale=en&theme=tokyonight&custom_title=Valensce%27s%20GitHub%20Stats"></a><br><br>
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Isabel_Lifu&layout=compact&theme=tokyonight&length=10"></a><br><br>
 	<a href="https://github.com/Valensce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=valensce&theme=tokyonight"></a><br><br>
-	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=turnipguy30&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide=red,rebol"></a><br><br>
+	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=egoist&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide=red,rebol"></a><br><br>
 </p>
 <hr>
 <details><summary><h3 align="center"> School projects for <a href="https://github.com/digital-technologies">Mr. Henley</a></h3></summary>
