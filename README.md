@@ -2,18 +2,11 @@
 <h1 align="left"> 
 ┊ ┊ ┊ ┊ ┊ ┊˚❃<br>
 ┊ ┊ ┊ ┊ ˚❀ ⋆｡<br>
-┊ ┊ ┊ ✿  ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼Hey, I'm Valensce⛧<br>
-┊ ┊ ❁⋆ <br>
-┊ ๑ ┊᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼Welcome to my profile...<br>
-✾  ⋆┊. ˚.<br>
-˚✽᲼᲼᲼</h1>	
-	<p align='center'>
-    <img src="https://gidigi.com/cdn/love.gif">
-</p>
-
-
+┊ ┊ ┊ ✿⋆  ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼<a href="https://github.com/Valensce">᲼<img src = "https://readme-typing-svg.herokuapp.com?size=26&duration=1500&color=20C20E&lines=Hey%2C+I'm+Valensce%E2%9B%A7"></a><br>
+┊ ┊ ❁⋆   ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼ <a href="https://github.com/Valensce">᲼<img src = "https://readme-typing-svg.herokuapp.com?size=26&duration=1500&color=20C20E&lines=Welcome+to+my+profile..."></a><br>
+┊ ๑ . ˚.᲼<br>
+✾⋆   <br></h1>
 <div align="center"> 
-
 <img src="Streaks.png" width="100%">
 
 <p align="center">
