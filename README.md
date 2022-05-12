@@ -8,8 +8,8 @@
 ✾⋆   <p align="center">
 	<a href="mailto:swarovskiswanski@gmail.com"><img src="https://img.shields.io/badge/Contact_me-here-99A5FF"></a> <!--Contact-->
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-cyan"></a> <!--Shoutout for Johnny!-->
-	<a href="https://github.com/valensce"><img src="https://gpvc.arturio.dev/valensce"></a> <!--Profile views-->
-	<a href="https://github.com/valensce"><img src="https://img.shields.io/github/stars/valensce"></a> <!--Stars-->
+	<a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/Valensce"></a> <!--Profile views-->
+	<a href="https://github.com/Valensce"><img src="https://img.shields.io/github/stars/Valensce"></a> <!--Stars-->
 	<!-- <br> <h3 align="center">Visit my organisation's homepage => https://xpavilion.github.io/<br></h3>--></h1>
 <div align="center"> 
 <img src="Streaks.png" width="100%">
@@ -43,23 +43,26 @@
 </div>
 
 <p align="center">
-	<a href="https://github.com/Valensce"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=valensce&column=6&theme=dracula"></a><br><br> <!--Trophies-->
-	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api?username=valensce&show_icons=true&locale=en&theme=tokyonight&custom_title=Valensce%27s%20GitHub%20Stats"></a><br><br>
-	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=Isabel_Lifu&layout=compact&theme=tokyonight&length=10"></a><br><br>
-	<a href="https://github.com/Valensce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=valensce&theme=tokyonight"></a><br><br>
-	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=egoist&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10&hide=red,rebol"></a><br><br>
+	<a href="https://github.com/Valensce"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=Valensce&column=6&theme=dracula"></a><br><br> <!--Trophies-->
+	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api?username=Valensce&show_icons=true&locale=en&theme=tokyonight"></a><br><br>
+	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=isabel-lifu&layout=compact&theme=tokyonight&length=10"></a><br><br>
+	<!--<a href="https://github.com/Valensce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Valensce&theme=tokyonight"></a><br><br>-->
+	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valensce&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10"></a><br><br>
 </p>
 <hr>
-<details><summary><h3 align="center"> School projects for <a href="https://github.com/digital-technologies">Mr. Henley</a></h3></summary>
+<details><summary><h3 align="center"> School projects</h3></summary>
 	<a href="https://github.com/Valensce/T1-HTML-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=T1-HTML-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 	<a href="https://github.com/Valensce/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 	<a href="https://github.com/Valensce/JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=JavaScript&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 </details>
 <hr>
+
+<!--
+
 <details><summary>About my friends</summary>
 <hr>
 	<details><summary>About <a href="https://github.com/TurnipGuy30/">TurnipGuy30</a></summary>
-		Johnny Dieckmann! An unsurpassable hacker, coder, programmer, mathematician, physicist, chemist, and engineer!
+		JohnnySD! An unsurpassable hacker, coder, programmer, mathematician, physicist, chemist, and engineer!
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/hacking-mudkip/">hacking-mudkip</a></summary>
@@ -73,20 +76,12 @@
 	<details><summary>About <a href="https://github.com/JBYT27/">Aspirin</a></summary>
 	</details>
 	<hr>
-	<details><summary>About <a href="https://github.com/supernova7/">Supernova7</a></summary>
-		Supernova7! An anonymous user who contributes in many of our private repositories.
-	</details>
-	<hr>
 	<details><summary>About <a href="https://github.com/teethtastegood/">teethtastegood</a></summary>
 		Charlotte Tye! An awesome friend who loves collaborating with others!
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/brizyyy/">Brizyyy</a></summary>
 		Brianna Cardenas! An incredibly intelligent study buddy!
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/lahonathon/">Lh(n)</a></summary>
-		Lh(n)! Yes, the one from XPaVilion!
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/porsce/">Porscerado</a></summary>
@@ -112,10 +107,6 @@
 		Specialist Mathematics! The best subject in the world! It's just really cool to finally own an account called my favourite subject - I'm so glad it hasn't 		   been taken already on Github! Let's go Specialist Mathematics!!!
 	</details>
 	<hr>
-	<details><summary>About <a href="https://github.com/isabel-lifu/">Isabel</a></summary>
-		Obviously, that's me again! My Beta acc.
-	</details>
-	<hr>
 	<details><summary>About <a href="https://github.com/lachy06/">Lachlan</a></summary>
 		Lachlan Quodrill! Another classmate & friend ✧
 	</details>
@@ -124,9 +115,13 @@
 
 <details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Prado loves you! <pre>There he is!</pre><img src="Pra-head Remake.JPG"> <details><summary>🐕</summary>OMG YOU'VE FOUND AN ULTRA-PRIVATE MESSAGE! Let me show you this hilarious repo => Click <a href="https://github.com/Valensce/Prados-Aquarium">here</a></details></details><hr>
 
+-->
+
 </div>
- <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=github">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=github">
 <hr>
-<img align="center" src="https://github.com/valensce/valensce/blob/output/github-contribution-grid-snake.svg">
+<img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg">
 <details><summary>Bonus</summary>
-<br>YOU ARE A PRADO! <br><hr>
+<br>YOU ARE A PRADO!<br>
+<hr>
+</details>
