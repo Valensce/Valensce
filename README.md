@@ -45,12 +45,12 @@
 <p align="center">
 	<a href="https://github.com/Valensce"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=Valensce&column=6&theme=dracula"></a><br><br> <!--Trophies-->
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api?username=Valensce&show_icons=true&locale=en&theme=tokyonight"></a><br><br>
-	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=isabel-lifu&layout=compact&theme=tokyonight&length=10"></a><br><br>
-	<!--<a href="https://github.com/Valensce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Valensce&theme=tokyonight"></a><br><br>-->
+	<!--<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=isabel-lifu&layout=compact&theme=tokyonight&length=10"></a><br><br>-->
+	<a href="https://github.com/Valensce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Valensce&theme=tokyonight"></a><br><br
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valensce&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10"></a><br><br>
 </p>
 <hr>
-<details><summary><h3 align="center"> School projects</h3></summary>
+<details><summary><h3 align="center">School projects</h3></summary>
 	<a href="https://github.com/Valensce/T1-HTML-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=T1-HTML-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 	<a href="https://github.com/Valensce/T2-CSS-Assignment"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=T2-CSS-Assignment&theme=tokyonight&show_owner=false" width="400" height="150"></a>
 	<a href="https://github.com/Valensce/JavaScript"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Valensce&repo=JavaScript&theme=tokyonight&show_owner=false" width="400" height="150"></a>
@@ -123,5 +123,5 @@
 <img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg">
 <details><summary>Bonus</summary>
 <br>YOU ARE A PRADO!<br>
-<hr>
 </details>
+<hr>
