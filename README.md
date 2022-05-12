@@ -127,5 +127,6 @@
 </div>
  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=github">
 <hr>
+<img align="center" src="https://github.com/valensce/valensce/blob/output/github-contribution-grid-snake.svg">
 <details><summary>Bonus</summary>
 <br>YOU ARE A PRADO! <br><hr>
