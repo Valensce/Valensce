@@ -8,7 +8,7 @@
 ✾⋆   <p align="center">
 	<a href="mailto:swarovskiswanski@gmail.com"><img src="https://img.shields.io/badge/Contact_me-here-99A5FF"></a> <!--Contact-->
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-cyan"></a> <!--Shoutout for Johnny!-->
-	<a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/Valensce"></a> <!--Profile views-->
+	<!-- <a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/Valensce"></a> <!--Profile views-->-->
 	<a href="https://github.com/Valensce"><img src="https://img.shields.io/github/stars/Valensce"></a> <!--Stars-->
 	<!-- <br> <h3 align="center">Visit my organisation's homepage => https://xpavilion.github.io/<br></h3>--></h1>
 <div align="center"> 
