@@ -8,7 +8,7 @@
 ✾⋆   <p align="center">
 	<a href="mailto:swarovskiswanski@gmail.com"><img src="https://img.shields.io/badge/Contact_me-here-99A5FF"></a> <!--Contact-->
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-cyan"></a> <!--Shoutout for Johnny!-->
-	<!-- <a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/Valensce"></a> <!--Profile views-->-->
+	<!-- <a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/Valensce"></a> <!--Profile views-->
 	<a href="https://github.com/Valensce"><img src="https://img.shields.io/github/stars/Valensce"></a> <!--Stars-->
 	<!-- <br> <h3 align="center">Visit my organisation's homepage => https://xpavilion.github.io/<br></h3>--></h1>
 <div align="center"> 
@@ -57,7 +57,7 @@
 </details>
 <hr>
 
-<!--
+
 
 <details><summary>About my friends</summary>
 <hr>
@@ -65,38 +65,40 @@
 		JohnnySD! An unsurpassable hacker, coder, programmer, mathematician, physicist, chemist, and engineer!
 	</details>
 	<hr>
-	<details><summary>About <a href="https://github.com/hacking-mudkip/">hacking-mudkip</a></summary>
+	<details><summary>About <a href="https://github.com/hacking-mudkip/">the hacking Mudkip</a></summary>
 		Natascha Tennent! A superb golfer and Pokémon player
 	</details>
 	<hr>
-	<details><summary>About <a href="https://github.com/Jeremy-Tsai-310206-XJosh/">☾ Snow</a></summary>
-		Jeremy Tsai! A true friend whom I appreciate.
+	<details><summary>About <a href="https://github.com/Vueneon/">笑容</a></summary>
+		XiaoRong!
 	</details>
 	<hr>
-	<details><summary>About <a href="https://github.com/JBYT27/">Aspirin</a></summary>
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/teethtastegood/">teethtastegood</a></summary>
+	<details><summary>About <a href="https://github.com/teethtastegood/">Tyetye</a></summary>
 		Charlotte Tye! An awesome friend who loves collaborating with others!
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/brizyyy/">Brizyyy</a></summary>
-		Brianna Cardenas! An incredibly intelligent study buddy!
+		Brianna Cardenas!
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/porsce/">Porscerado</a></summary>
-		My lil bot made to follow my followers!
+		Not the car "<strong>ahem</strong>" 
+	</details>
+	<hr>
+	<details><summary>About <a href="https://github.com/xaviicia/">xav♡</a></summary>
+		There's something <em>really</em> special that'll be here soon!
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/Mulky-bot/">MuLKy bot</a></summary>
-		Samuel Garay! He is not a bot LOL
+		Samuel Garay! 
+	</details>
+	<hr>
+	<details><summary>About <a href="https://github.com/rosellarose/">Rosella</a></summary>
+		Rosella! Childhood bestie゜✧*̣̩☽⋆゜
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/digital-technologies/">Digital Technologies</a></summary>
-		Mr. J Henley! #Cool #BestTeacher #PassionateForOurFutures #WillingToHelpOut
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/Nones2003/">Nones2003</a></summary>	
+		Mr. J Henley!
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/valerimatical/">Valerimatical</a></summary>
@@ -104,18 +106,21 @@
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/Specialist-mathematics/">Specialist Mathematics</a></summary>
-		Specialist Mathematics! The best subject in the world! It's just really cool to finally own an account called my favourite subject - I'm so glad it hasn't 		   been taken already on Github! Let's go Specialist Mathematics!!!
+		Specialist Mathematics! The best subject in the world! It's just really cool to finally own an account called my favourite subject - I'm so glad it hasn't been taken already on Github! Let's go Specialist Mathematics!!!
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/lachy06/">Lachlan</a></summary>
 		Lachlan Quodrill! Another classmate & friend ✧
 	</details>
+	<hr>
+	<details><summary>About <a href="https://github.com/Itzabear/">Itzabear</a></summary>
+		Account dedicated to my lil German Shepherd, Bear・・・ʕ ˵ ̿–ᴥ ̿– ˵ ʔ
+	</details>
 	</details>
 <hr>
 
-<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Prado loves you! <pre>There he is!</pre><img src="Pra-head Remake.JPG"> <details><summary>🐕</summary>OMG YOU'VE FOUND AN ULTRA-PRIVATE MESSAGE! Let me show you this hilarious repo => Click <a href="https://github.com/Valensce/Prados-Aquarium">here</a></details></details><hr>
+<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Prado loves you! <pre>There he is!</pre><img src="Pra-head Remake.JPG"> <details><summary>🐕</summary>Let me show you this hilarious repo => Click <a href="https://github.com/Valensce/Prados-Aquarium">here</a></details></details><hr>
 
--->
 
 </div>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=github">
