@@ -120,7 +120,10 @@
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=github">
 <hr>
 <img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg">
+<p align='center'>
+    <img src="https://gidigi.com/cdn/love.gif">
+</p>
 <details><summary>Bonus</summary>
-<br>YOU ARE A PRADO!<br>
+<br>YOU ARE A PRADO!<br><hr>
 </details>
-<hr>
+
