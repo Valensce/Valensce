@@ -59,8 +59,15 @@
 		JohnnySD! An unsurpassable hacker, coder, programmer, mathematician, physicist, chemist, and engineer!
 	</details>
 	<hr>
-	<details><summary>About <a href="https://github.com/hacking-mudkip/">the hacking Mudkip</a></summary>
+	<details><summary>About the <a href="https://github.com/hacking-mudkip/">hacking Mudkip</a></summary>
 		Natascha Tennent! A superb golfer and Pokémon player
+	</details>
+	<hr>
+	<details><summary>About <a href="https://github.com/J1ck/">J1ck</a></summary>
+		Jackson Parsons! A programmer and Roblox game developer who owns a Black Mouth Cur called Remus... <br>
+		<details><summary>REEMAS!!</summary>
+			<img src="Remus.jpg">
+		</details>
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/Vueneon/">笑容</a></summary>
