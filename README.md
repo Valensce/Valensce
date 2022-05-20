@@ -64,7 +64,7 @@
 	</details>
 	<hr>
 	<details><summary>About <a href="https://github.com/J1ck/">J1ck</a></summary>
-		Jackson Parsons! A programmer and Roblox game developer who owns a Black Mouth Cur called Remus... <br>
+		Jackson Parsons! A specialist student, programmer, 3D modeler, shade developer, blender artist and Roblox game developer who owns a Black Mouth Cur called Remus... <br>
 		<details><summary>REEMAS!!</summary>
 			<img src="Remus.jpg">
 		</details>
