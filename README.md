@@ -124,7 +124,7 @@
 
 
 </div>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=github">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=react-dark&area=true&hide_border=true" width="100%">
 <hr>
 <img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg">
 <p align='center'>
