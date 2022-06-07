@@ -2,8 +2,8 @@
 <h1 align="left"> 
 ┊ ┊ ┊ ┊ ┊ ┊˚❃<br>
 ┊ ┊ ┊ ┊ ˚❀ ⋆｡<br>
-┊ ┊ ┊ ✿⋆  ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼<a href="https://github.com/Valensce">᲼<img src = "https://readme-typing-svg.herokuapp.com?size=26&duration=1500&color=20C20E&lines=Hey%2C+I'm+Valensce%E2%9B%A7"></a><br>
-┊ ┊ ❁⋆   ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼ <a href="https://github.com/Valensce">᲼<img src = "https://readme-typing-svg.herokuapp.com?size=26&duration=1500&color=20C20E&lines=Welcome+to+my+profile..."></a><br>
+┊ ┊ ┊ ✿⋆  ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼<a href="https://github.com/Valensce">᲼<img src = "https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=20C20E&lines=Hey%2C+I'm+Valensce%E2%9B%A7"></a><br>
+┊ ┊ ❁⋆   ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼ <a href="https://github.com/Valensce">᲼<img src = "https://readme-typing-svg.herokuapp.com?size=26&duration=2500&color=20C20E&lines=Welcome+to+my+profile..."></a><br>
 ┊ ๑ . ˚.᲼   ᲼᲼᲼᲼᲼᲼᲼᲼᲼   ᲼᲼   ᲼᲼  <a href="https://github.com/Valensce"> <img src="https://profile-counter.glitch.me/valensce/count.svg"></a><br>
 ✾⋆   <p align="center">
 	<a href="mailto:swarovskiswanski@gmail.com"><img src="https://img.shields.io/badge/Contact_me-here-99A5FF"></a> <!--Contact-->
