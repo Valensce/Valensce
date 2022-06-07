@@ -10,11 +10,10 @@
 	<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout%20to-TurnipGuy30-cyan"></a> <!--Shoutout for Johnny!-->
 	<!-- <a href="https://github.com/Valensce"><img src="https://gpvc.arturio.dev/Valensce"></a> <!--Profile views-->
 	<a href="https://github.com/Valensce"><img src="https://img.shields.io/github/stars/Valensce"></a> <!--Stars-->
-	<!-- <br> <h3 align="center">Visit my organisation's homepage => https://xpavilion.github.io/<br></h3>--></h1>
+	<!-- <br> <h3 align="center">Visit my organisation's homepage => https://xpavilion.github.io/<br></h3>--></h1></p>
 <div align="center"> 
 <img src="Streaks.png" width="100%">
-
-
+<br>
 <p align="center"> <h3 align="center"> Apps/Languages/Prados that I use: </h3>
 	<a href="https://apple.com/">	<img src="https://img.shields.io/badge/Apple-Valensce%20<3-99A5FF?logo=apple"> </a><!--Apple-->
 	<a href="https://valensce.github.io">	<img src="https://img.shields.io/badge/Valensce✧*̣̩☽⋆゜[hashtag]3520-333?logo=discord"> </a><!--Discord-->
@@ -36,19 +35,17 @@
 	<a href="https://github.com/Valensce">	<img src="https://img.shields.io/badge/-Windows%2010-333333?style=flat&logo=Windows"> </a><!--Windows-->
 </p>
 
-</p>
-
 <div align="left">
 	
-</div>
-
+</div><hr>
+<details><summary><h1>Show me stats</h1></summary>
 <p align="center">
 	<a href="https://github.com/Valensce"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=Valensce&column=6&theme=dracula"></a><br><br> <!--Trophies-->
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api?username=Valensce&show_icons=true&locale=en&theme=tokyonight"></a><br><br>
 	<!--<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=isabel-lifu&layout=compact&theme=tokyonight&length=10"></a><br><br>-->
 	<a href="https://github.com/Valensce"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Valensce&theme=tokyonight"></a><br><br
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valensce&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10"></a><br><br>
-</p>
+</p></details>
 <hr>
 <h3 align="center">School projects are available <a href="https://github.com/Valensce/School-projects">here</a></h3>
 <hr>
@@ -119,18 +116,16 @@
 	</details>
 	</details>
 <hr>
-
-<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Prado loves you! <pre>There he is!</pre><img src="Pra-head Remake.JPG"> <details><summary>🐕</summary>Let me show you this hilarious repo => Click <a href="https://github.com/Valensce/Prados-Aquarium">here</a></details></details><hr>
-<img src="https://metrics.lecoq.io/Valensce?template=classic&isocalendar=1&achievements=1&lines=1&repositories=1&people=1&notable=1&discussions=1&gists=1&introduction=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=S&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&config.timezone=Australia%2FBrisbane">
-
-</div>
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=react-dark&area=true&hide_border=true" width="100%">
 <hr>
-<img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg">
+<img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg"><br><hr>
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
+<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Prado loves you! <pre>There he is!</pre><img src="Pra-head Remake.JPG"> <details><summary>🐕</summary>Let me show you this hilarious repo => Click <a href="https://github.com/Valensce/Prados-Aquarium">here</a></details></details><hr>
+<img src="https://metrics.lecoq.io/Valensce?template=classic&isocalendar=1&achievements=1&lines=1&repositories=1&people=1&notable=1&discussions=1&gists=1&introduction=1&base.indepth=false&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements.threshold=S&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&discussions.categories=true&discussions.categories.limit=0&introduction.title=true&config.timezone=Australia%2FBrisbane">
+</div>
 <details><summary>Bonus</summary>
-<br>YOU ARE A PRADO!<br><hr>
+<hr><br><img src="hellokitty.gif"><hr>
 </details>
 
