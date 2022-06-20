@@ -123,8 +123,11 @@
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
-<details><summary>⯈ ⯈</summary>Well done - You've found a secret message: Prado loves you! <pre>There he is!</pre><img src="Pra-head Remake.JPG"> <details><summary>🐕</summary>Let me show you this hilarious repo => Click <a href="https://github.com/Valensce/Prados-Aquarium">here</a></details></details><hr>
-</div>
+<details><summary>⯈ ⯈</summary><br><details><summary>Prado loves you!<br>
+<pre>Where is he?</pre></summary>
+<img src="Pra-head Remake.JPG" width="25%"><br>
+Let me show you this hilarious repo => Click <a href="https://github.com/Valensce/Prados-Aquarium">here</a>🐕</details>
+</div><hr>
 <details><summary>Bonus</summary>
 <hr><br><img src="hellokitty.gif"><hr>
 </details>
