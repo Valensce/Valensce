@@ -31,5 +31,5 @@ jobs:
           plugin_languages_categories: markup, programming, data, prose
           plugin_languages_recent_load: 500
           plugin_languages_recent_days: 7
-          commits_authoring: ba004745@bac.qld.edu.au, pradolifu@gmail.com
+          commits_authoring: "ba004745@bac.qld.edu.au", "pradolifu@gmail.com"
           
