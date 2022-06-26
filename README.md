@@ -52,7 +52,7 @@
 <hr>
 <h3 align="center">School projects are available <a href="https://github.com/Valensce/School-projects">here</a></h3>
 <hr>
-<img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg"><br><img src="line.gif" width="100%">
+<img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg"><br><hr>
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
