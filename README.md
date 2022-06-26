@@ -37,7 +37,7 @@
 
 <div align="left">
 	
-</div><img src="line.gif" width="100%">
+</div><hr>
 <details><summary><h1>Show me stats</h1></summary>
 <p align="center">
 	<a href="https://github.com/Valensce"><img src="https://hacked-github-stat-trophies-all-unlocked.vercel.app/?username=Valensce&column=6&theme=dracula"></a><br><br> <!--Trophies-->
@@ -47,78 +47,12 @@
 	<a href="https://github.com/Valensce"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valensce&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10"></a><br><br>
 	<img src="github-metrics.svg">
 </p></details>
-<img src="line.gif" width="100%">
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=react-dark&area=true&hide_border=true" width="100%">
-<img src="line.gif" width="100%">
-<h3 align="center">School projects are available <a href="https://github.com/Valensce/School-projects">here</a></h3>
-<img src="line.gif" width="100%">
-<img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg"><br><img src="line.gif" width="100%">
-<details><summary><h1>About my friends</h1></summary>
 <hr>
-	<details><summary>About <a href="https://github.com/TurnipGuy30/">TurnipGuy30</a></summary>
-		JohnnySD! An unsurpassable hacker, coder, programmer, mathematician, physicist, chemist, and engineer!
-	</details>
-	<hr>
-	<details><summary>About the <a href="https://github.com/hacking-mudkip/">hacking Mudkip</a></summary>
-		Natascha Tennent! A superb golfer and Pokémon player
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/J1ck/">J1ck</a></summary>
-		Jackson Parsons! A specialist student, programmer, 3D modeler, shade developer, blender artist and Roblox game developer who owns a Black Mouth Cur called Remus... <br>
-		<details><summary>REEMAS!!</summary>
-			<img src="Remus.jpg">
-		</details>
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/Vueneon/">笑容</a></summary>
-		XiaoRong!
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/teethtastegood/">Tyetye</a></summary>
-		Charlotte Tye! An awesome friend who loves collaborating with others!
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/brizyyy/">Brizyyy</a></summary>
-		Brianna Cardenas!
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/porsce/">Porscerado</a></summary>
-		Not the car "<strong>ahem</strong>" 
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/xaviicia/">xav♡</a></summary>
-		There's something <em>really</em> special that'll be here soon!
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/Mulky-bot/">MuLKy bot</a></summary>
-		Samuel Garay! 
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/rosellarose/">Rosella</a></summary>
-		Rosella! Childhood bestie゜✧*̣̩☽⋆゜
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/digital-technologies/">Digital Technologies</a></summary>
-		Mr. J Henley!
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/valerimatical/">Valerimatical</a></summary>
-		Valerie! The Fairy-type Gym Leader from Kalos is now helping out in my org XPaVilion!
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/Specialist-mathematics/">Specialist Mathematics</a></summary>
-		Specialist Mathematics! The best subject in the world! It's just really cool to finally own an account called my favourite subject - I'm so glad it hasn't been taken already on Github! Let's go Specialist Mathematics!!!
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/lachy06/">Lachlan</a></summary>
-		Lachlan Quodrill! Another classmate & friend ✧
-	</details>
-	<hr>
-	<details><summary>About <a href="https://github.com/Itzabear/">Itzabear</a></summary>
-		Account dedicated to my lil German Shepherd, Bear・・・ʕ ˵ ̿–ᴥ ̿– ˵ ʔ
-	</details>
-	</details>
-	<img src="line.gif" width="100%">
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Valensce&theme=react-dark&area=true&hide_border=true" width="100%">
+<hr>
+<h3 align="center">School projects are available <a href="https://github.com/Valensce/School-projects">here</a></h3>
+<hr>
+<img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg"><br><img src="line.gif" width="100%">
 <p align='center'>
     <img src="https://gidigi.com/cdn/love.gif">
 </p>
@@ -126,7 +60,7 @@
 <pre>Where is he?</pre></summary>
 <img src="Pra-head Remake.JPG" width="25%"><br>
 Let me show you this hilarious repo => Click <a href="https://github.com/Valensce/Prados-Aquarium">here</a>🐕</details>
-</div><img src="line.gif" width="100%">
+</div><hr>
 <details><summary>Bonus</summary>
 <br><img src="hellokitty.gif">
 </details>
