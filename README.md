@@ -7,7 +7,6 @@
 	</p>
 	<hr>
 	<p>
-		<img src="https://gpvc.arturio.dev/Valensce">
 		<img src="https://img.shields.io/github/stars/Valensce">
 		<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout-TurnipGuy30-cyan"></a>
 	</p>
