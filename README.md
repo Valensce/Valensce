@@ -10,15 +10,16 @@
 		<img src="https://img.shields.io/github/stars/Valensce">
 		<a href="https://github.com/TurnipGuy30"><img src="https://img.shields.io/badge/Shoutout-TurnipGuy30-cyan"></a>
 	</p>
-	<p>
+	<!-- <p>
 		<a href="mailto:swarovskiswanski@gmail.com"><img src="https://img.shields.io/badge/My-Email-99A5FF"></a>
 		<a href="https://github.com/Valensce/School-projects"><img src="https://img.shields.io/badge/My-Assignments-blueviolet"></a>
 		<a href="https://open.spotify.com/user/8jsmxggsn2pqgcphminrgxxwf"><img src="https://img.shields.io/badge/My-Spotify-darkgreen"></a>
-	</p>
+	</p> -->
 	<p>
 		<a href="https://github.com/Valensce/Valensce/actions/workflows/metrics.yml"><img src="https://github.com/Valensce/Valensce/actions/workflows/metrics.yml/badge.svg?branch=main"></a>
 	</p>
 	<hr>
+	<img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg" href="https://github.com/Valensce">
 	<h3>My Statistics</h3>
 	<p>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valensce&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10">
