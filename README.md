@@ -19,11 +19,11 @@
 		<a href="https://github.com/Valensce/Valensce/actions/workflows/metrics.yml"><img src="https://github.com/Valensce/Valensce/actions/workflows/metrics.yml/badge.svg?branch=main"></a>
 	</p>
 	<hr>
-	<img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg" href="https://github.com/Valensce">
+	<img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg" href="https://github.com/Valensce"><br><hr>
 	<h3>My Statistics</h3>
-	<p>
+	<!--<p>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valensce&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10">
-	</p>
+	</p>-->
 	<p>
 		<img src="github-metrics.svg">
 	</p>
