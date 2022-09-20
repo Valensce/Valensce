@@ -615,7 +615,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.516516516516517 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="6.671671671671672 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -638,12 +638,12 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 531k out of 342m repositories</span>
+                                    <span class="gh">ranked 522k out of 342m repositories</span>
                                     <div class="value-wrapper">
-                                        <div class="value">43</div>
+                                        <div class="value">44</div>
                                     </div>
                                 </div>
-                                <div class="text">Maintaining a repository with 43 stars</div>
+                                <div class="text">Maintaining a repository with 44 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1285,7 +1285,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Sept 2022, 05:48:23  with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 20 Sept 2022, 06:37:05  with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
