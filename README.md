@@ -20,7 +20,7 @@
 	</p>
 	<hr>
 	<img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg" href="https://github.com/Valensce"><br><hr>
-	<h3>My Statistics</h3>
+	<details><summary>My Statistics</summary>
 	<!--<p>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valensce&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10">
 	</p>-->
@@ -30,6 +30,6 @@
 	<hr>
 	<p>
 		<img src="https://github-profile-trophy.vercel.app/?username=Valensce&column=-1&theme=dracula">
-	</p>
+	</p></details>
 	<hr>
 </div>
