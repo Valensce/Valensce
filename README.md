@@ -5,16 +5,17 @@
 	<p>
 		<img src="https://profile-counter.glitch.me/valensce/count.svg">
 	</p>
-	<hr>
+	<!---
 	<p>
 		<a href="mailto:swarovskiswanski@gmail.com"><img src="https://img.shields.io/badge/My-Email-99A5FF"></a>
-		<a href="https://github.com/Valensce/School-projects"><img src="https://img.shields.io/badge/My-Assignments-blueviolet"></a>
+		<a href="https://github.com/Valensce/HighSchool"><img src="https://img.shields.io/badge/My-Assignments-blueviolet"></a>
 		<a href="https://open.spotify.com/user/8jsmxggsn2pqgcphminrgxxwf"><img src="https://img.shields.io/badge/My-Spotify-darkgreen"></a>
-	</p> 
+	</p>
 	<p>
 		<a href="https://github.com/Valensce/Valensce/actions/workflows/metrics.yml"><img src="https://github.com/Valensce/Valensce/actions/workflows/metrics.yml/badge.svg?branch=main"></a>
 		<img src="https://img.shields.io/github/stars/Valensce">
 	</p>
+	--->
 	<hr>
 	<img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg" href="https://github.com/Valensce"><br><hr>
 	<details><summary>My Statistics</summary>
