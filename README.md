@@ -17,7 +17,12 @@
 	</p>
 	--->
 	<hr>
-	<img align="center" src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg" href="https://github.com/Valensce"><br><hr>
+	<picture>
+	  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg">
+	  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg">
+	  <img src="https://raw.githubusercontent.com/Valensce/Valensce/output/github-contribution-grid-snake.svg" href="https://github.com/Valensce" >
+	</picture>
+	<br><hr>
 	<details><summary>My Statistics</summary>
 	<!--<p>
 		<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Valensce&show_icons=true&locale=en&layout=compact&theme=tokyonight&langs_count=10">
