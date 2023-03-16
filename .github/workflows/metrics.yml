@@ -5,7 +5,7 @@ on:
     branches: ["master", "main"]
   }
   schedule:
-    - cron: '* * * * *'
+    - cron: "0 */24 * * *"
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
